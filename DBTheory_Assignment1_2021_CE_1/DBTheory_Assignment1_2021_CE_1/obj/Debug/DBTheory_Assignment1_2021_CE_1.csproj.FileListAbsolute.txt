@@ -1,0 +1,11 @@
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\bin\Debug\DBTheory_Assignment1_2021_CE_1.exe.config
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\bin\Debug\DBTheory_Assignment1_2021_CE_1.exe
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\bin\Debug\DBTheory_Assignment1_2021_CE_1.pdb
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\obj\Debug\DBTheory_Assignment1_2021_CE_1.csproj.AssemblyReference.cache
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\obj\Debug\DBTheory_Assignment1_2021_CE_1.csproj.SuggestedBindingRedirects.cache
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\obj\Debug\DBTheory_Assignment1_2021_CE_1.Form1.resources
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\obj\Debug\DBTheory_Assignment1_2021_CE_1.Properties.Resources.resources
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\obj\Debug\DBTheory_Assignment1_2021_CE_1.csproj.GenerateResource.cache
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\obj\Debug\DBTheory_Assignment1_2021_CE_1.csproj.CoreCompileInputs.cache
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\obj\Debug\DBTheory_Assignment1_2021_CE_1.exe
+G:\uet\Semester 5\DB Theory\DBTheory_Assignment1_2021_CE_1\DBTheory_Assignment1_2021_CE_1\obj\Debug\DBTheory_Assignment1_2021_CE_1.pdb
