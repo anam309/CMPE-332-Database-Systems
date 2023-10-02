@@ -1,0 +1,44 @@
+Database Systems 
+Assignment #2 
+ 
+For this assignment you must use a software tool to draw ERMs or EERM of the following problems. The following links provide some ER drawing tools; you may investigate them and pick one that works for you.  http://dia-installer.de/shapes/ER/index.html.en  https://products.office.com/en-us/Visio/visio-professional-2013-free-trialflowchart-software https://www.omnigroup.com/omnigraffle https://www.gliffy.com/ 
+Or any software that you may find and suitable for drawing ERM  
+ 
+Submission Instructions:  
+•	Hand drawing ERMs are not accepted. 
+•	All answers should be your own  • Handwritten answers are not accepted.  
+•	Images are not accepted.  
+•	All answers should be collected in only one PDF file.  
+•	Submit this file via eLearning.  
+ 
+Question 1: [20 points] 
+Draw an Enhanced Entity Relationship (EER) Diagram for the following specifications.  • 	Each campus has a unique ID, name, address, city, state, country, and URL. A campus can have many colleges. 
+•	Each college has a unique id, name, phone, email, and URL. 
+•	A campus can have many units. Each unit has a unique id within the campus, name, phone, and type (academic or non-academic). An academic unit is associated to a college. A non-academic unit has a job description. 
+•	A college may offer courses. Each course has code, number, credit, and title. Each course is uniquely identified by the code and number together. 
+•	Each user of the system has a unique id, first name, last name, email, phone. A user may have several phones. 
+•	A user is a faculty, student, or a combination. Faculty has a rank. Student can be undergraduate or graduate. 
+•	A tutor is a user hired by a college and has a pay rate (dollars per hour) and a list of courses he/she can be responsible for. A tutor can tutor in more than one college. A college can have many tutors. 
+•	A supervisor is a faculty member assigned to supervise tutors. A supervisor has office hours for supervising. Each tutor is supervised by one supervisor. A supervisor can supervise many tutors. 
+•	An on-call is initiated by a faculty to ask a tutor to help in one specific course. The oncall has a unique id, location, date, start time, end time, task type (classroom assistance, lab assistance, or exam monitoring), and status (assigned, missed, or attended). 
+•	An appointment between a tutor and a student could be scheduled outside of the classroom and lab. An appointment has a unique id, location, date, start time, end time, list of courses, and status (scheduled, canceled, or attended). 
+ 
+Identify the entities, attributes, and relationships for the above set of requirements. 
+•	For entities: identify the strong and weak entities. 
+•	For attributes: identify key, multi-valued, composite, and derived attributes. 
+•	For relationships: use (min, max) constraints 
+List any assumptions you make. 
+ 
+Question 2: [10 points] 
+Draw an ER diagram that would be mapped into the following relational database schema: 
+  
+Question 3: [10 points] 
+Consider the following ER diagram. Assume that an employee may work in up to two departments or may not be assigned to any department. Assume that each department must have one and may have up to three phone numbers.  
+Assume the following additional system requirements:  
+•	Each department can have anywhere between 1 and 30 employees.  
+•	Each phone is used by one, and only one, department.  
+•	Each phone is assigned to at least one and may be assigned to up to 30 employees.  
+•	Each employee is assigned at least one, but no more than 5 phones. 
+a)	Supply (min, max) constraints on this diagram. State clearly any additional assumptions you make.  
+b)	Under what conditions would the relationship HAS PHONE been redundant in this example?  
+  
