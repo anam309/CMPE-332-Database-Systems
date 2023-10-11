@@ -1,0 +1,12 @@
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.Form2.resources
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+G:\uet\Semester 5\DB Theory\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
